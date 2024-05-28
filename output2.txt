@@ -1,0 +1,123 @@
+Td = 1		ID = 2		Tj = 1		Df = 0		Dd = 0		Db = 0
+Td = 1		ID = 1		Tj = 1		Df = 0		Dd = 0		Db = 0
+Td = 2		ID = 3		Tj = 2		Df = 0		Dd = 0		Db = 0
+Td = 4		ID = 4		Tj = 4		Df = 0		Dd = 0		Db = 0
+Td = 5		ID = 5		Tj = 5		Df = 0		Dd = 0		Db = 0
+Td = 6		ID = 6		Tj = 6		Df = 0		Dd = 0		Db = 0
+Td = 7		ID = 7		Tj = 7		Df = 0		Dd = 0		Db = 0
+Td = 8		ID = 9		Tj = 8		Df = 0		Dd = 0		Db = 0
+Td = 8		ID = 8		Tj = 8		Df = 0		Dd = 0		Db = 0
+Td = 9		ID = 10		Tj = 9		Df = 0		Dd = 0		Db = 0
+Td = 10		ID = 12		Tj = 10		Df = 0		Dd = 0		Db = 0
+Td = 10		ID = 11		Tj = 10		Df = 0		Dd = 0		Db = 0
+Td = 11		ID = 14		Tj = 11		Df = 0		Dd = 0		Db = 0
+Td = 11		ID = 13		Tj = 11		Df = 0		Dd = 0		Db = 0
+Td = 12		ID = 17		Tj = 12		Df = 0		Dd = 0		Db = 0
+Td = 12		ID = 15		Tj = 12		Df = 0		Dd = 0		Db = 0
+Td = 12		ID = 16		Tj = 12		Df = 0		Dd = 0		Db = 0
+Td = 13		ID = 19		Tj = 13		Df = 0		Dd = 0		Db = 0
+Td = 13		ID = 18		Tj = 13		Df = 0		Dd = 0		Db = 0
+Td = 14		ID = 21		Tj = 14		Df = 0		Dd = 0		Db = 0
+Td = 14		ID = 20		Tj = 14		Df = 0		Dd = 0		Db = 0
+Td = 15		ID = 25		Tj = 15		Df = 0		Dd = 0		Db = 0
+Td = 15		ID = 24		Tj = 15		Df = 0		Dd = 0		Db = 0
+Td = 15		ID = 23		Tj = 15		Df = 0		Dd = 0		Db = 0
+Td = 15		ID = 22		Tj = 15		Df = 0		Dd = 0		Db = 0
+Td = 17		ID = 26		Tj = 17		Df = 0		Dd = 0		Db = 0
+Td = 17		ID = 27		Tj = 17		Df = 0		Dd = 0		Db = 0
+Td = 18		ID = 29		Tj = 18		Df = 0		Dd = 0		Db = 0
+Td = 18		ID = 28		Tj = 18		Df = 0		Dd = 0		Db = 0
+Td = 18		ID = 30		Tj = 18		Df = 0		Dd = 0		Db = 0
+Td = 19		ID = 32		Tj = 19		Df = 0		Dd = 0		Db = 0
+Td = 19		ID = 31		Tj = 19		Df = 0		Dd = 0		Db = 0
+Td = 20		ID = 34		Tj = 20		Df = 0		Dd = 0		Db = 0
+Td = 20		ID = 35		Tj = 20		Df = 0		Dd = 0		Db = 0
+Td = 20		ID = 33		Tj = 20		Df = 0		Dd = 0		Db = 0
+Td = 21		ID = 36		Tj = 21		Df = 0		Dd = 0		Db = 0
+Td = 21		ID = 37		Tj = 21		Df = 0		Dd = 0		Db = 0
+Td = 22		ID = 38		Tj = 22		Df = 0		Dd = 0		Db = 0
+Td = 23		ID = 40		Tj = 23		Df = 0		Dd = 0		Db = 0
+Td = 23		ID = 39		Tj = 23		Df = 0		Dd = 0		Db = 0
+Td = 24		ID = 41		Tj = 24		Df = 0		Dd = 0		Db = 0
+Td = 24		ID = 42		Tj = 24		Df = 0		Dd = 0		Db = 0
+Td = 24		ID = 43		Tj = 24		Df = 0		Dd = 0		Db = 0
+Td = 25		ID = 45		Tj = 25		Df = 0		Dd = 0		Db = 0
+Td = 25		ID = 44		Tj = 25		Df = 0		Dd = 0		Db = 0
+Td = 26		ID = 47		Tj = 26		Df = 0		Dd = 0		Db = 0
+Td = 26		ID = 48		Tj = 26		Df = 0		Dd = 0		Db = 0
+Td = 26		ID = 49		Tj = 26		Df = 0		Dd = 0		Db = 0
+Td = 27		ID = 51		Tj = 27		Df = 0		Dd = 0		Db = 0
+Td = 27		ID = 50		Tj = 27		Df = 0		Dd = 0		Db = 0
+Td = 28		ID = 55		Tj = 28		Df = 0		Dd = 0		Db = 0
+Td = 28		ID = 53		Tj = 28		Df = 0		Dd = 0		Db = 0
+Td = 28		ID = 52		Tj = 28		Df = 0		Dd = 0		Db = 0
+Td = 28		ID = 54		Tj = 28		Df = 0		Dd = 0		Db = 0
+Td = 29		ID = 57		Tj = 29		Df = 0		Dd = 0		Db = 0
+Td = 29		ID = 56		Tj = 29		Df = 0		Dd = 0		Db = 0
+Td = 30		ID = 59		Tj = 30		Df = 0		Dd = 0		Db = 0
+Td = 30		ID = 58		Tj = 30		Df = 0		Dd = 0		Db = 0
+Td = 31		ID = 61		Tj = 31		Df = 0		Dd = 0		Db = 0
+Td = 31		ID = 62		Tj = 31		Df = 0		Dd = 0		Db = 0
+Td = 31		ID = 63		Tj = 31		Df = 0		Dd = 0		Db = 0
+Td = 31		ID = 60		Tj = 31		Df = 0		Dd = 0		Db = 0
+Td = 32		ID = 64		Tj = 32		Df = 0		Dd = 0		Db = 0
+Td = 32		ID = 65		Tj = 32		Df = 0		Dd = 0		Db = 0
+Td = 33		ID = 66		Tj = 33		Df = 0		Dd = 0		Db = 0
+Td = 33		ID = 69		Tj = 33		Df = 0		Dd = 0		Db = 0
+Td = 33		ID = 67		Tj = 33		Df = 0		Dd = 0		Db = 0
+Td = 33		ID = 68		Tj = 33		Df = 0		Dd = 0		Db = 0
+Td = 34		ID = 71		Tj = 34		Df = 0		Dd = 0		Db = 0
+Td = 35		ID = 72		Tj = 35		Df = 0		Dd = 0		Db = 0
+Td = 35		ID = 70		Tj = 34		Df = 1		Dd = 0		Db = 1
+Td = 36		ID = 74		Tj = 36		Df = 0		Dd = 0		Db = 0
+Td = 36		ID = 73		Tj = 36		Df = 0		Dd = 0		Db = 0
+Td = 37		ID = 75		Tj = 37		Df = 0		Dd = 0		Db = 0
+Td = 38		ID = 76		Tj = 38		Df = 0		Dd = 0		Db = 0
+Td = 38		ID = 78		Tj = 38		Df = 0		Dd = 0		Db = 0
+Td = 38		ID = 77		Tj = 38		Df = 0		Dd = 0		Db = 0
+Td = 39		ID = 81		Tj = 39		Df = 0		Dd = 0		Db = 0
+Td = 39		ID = 79		Tj = 39		Df = 0		Dd = 0		Db = 0
+Td = 39		ID = 80		Tj = 39		Df = 0		Dd = 0		Db = 0
+Td = 40		ID = 82		Tj = 40		Df = 0		Dd = 0		Db = 0
+Td = 40		ID = 84		Tj = 40		Df = 0		Dd = 0		Db = 0
+Td = 40		ID = 83		Tj = 40		Df = 0		Dd = 0		Db = 0
+
+
+Battle result: Loss
+
+ ============ STATISTICS ============ 
+
+ For Earth Army: 
+	 - Total ES: 24
+	 - Total ET: 23
+	 - Total EG: 36
+
+	 - ES destructed %: 100
+	 - ET destructed %: 100
+	 - EG destructed %: 100
+	 - Total destructed %: 100
+
+	 - Average Df: 0.0060241
+	 - Average Dd: 0
+	 - Average Db: 0.00200803
+
+	 - DF/Db %: 100
+	 - Dd/Db %: 0
+
+ For Alien Army: 
+	 - Total AS: 38
+	 - Total AM: 19
+	 - Total AD: 16
+
+	 - AS destructed %: 0
+	 - AM destructed %: 0
+	 - AD destructed %: 0
+	 - Total destructed %: 0
+
+	 - Average Df: 0
+	 - Average Dd: 0
+	 - Average Db: 0
+
+	 - DF/Db %: -nan(ind)
+	 - Dd/Db %: -nan(ind)
+
